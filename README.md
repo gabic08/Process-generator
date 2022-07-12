@@ -1,6 +1,5 @@
 # Process generator
-\n
-This program simulates the creation of processes in an operating system, as well as their running at "the same time" using a multitasking simulation.
+\nThis program simulates the creation of processes in an operating system, as well as their running at "the same time" using a multitasking simulation.
 \n
 When creating a process, it is added to a queue of ready processes.
 Each process has a lifespan that is consumed when the GPU takes it.
