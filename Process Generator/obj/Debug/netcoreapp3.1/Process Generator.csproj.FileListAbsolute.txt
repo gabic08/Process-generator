@@ -1,0 +1,14 @@
+C:\Users\gabic\Desktop\Process Generator\bin\Debug\netcoreapp3.1\Process Generator.exe
+C:\Users\gabic\Desktop\Process Generator\bin\Debug\netcoreapp3.1\Process Generator.deps.json
+C:\Users\gabic\Desktop\Process Generator\bin\Debug\netcoreapp3.1\Process Generator.runtimeconfig.json
+C:\Users\gabic\Desktop\Process Generator\bin\Debug\netcoreapp3.1\Process Generator.runtimeconfig.dev.json
+C:\Users\gabic\Desktop\Process Generator\bin\Debug\netcoreapp3.1\Process Generator.dll
+C:\Users\gabic\Desktop\Process Generator\bin\Debug\netcoreapp3.1\Process Generator.pdb
+C:\Users\gabic\Desktop\Process Generator\obj\Debug\netcoreapp3.1\Process Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabic\Desktop\Process Generator\obj\Debug\netcoreapp3.1\Process Generator.AssemblyInfoInputs.cache
+C:\Users\gabic\Desktop\Process Generator\obj\Debug\netcoreapp3.1\Process Generator.AssemblyInfo.cs
+C:\Users\gabic\Desktop\Process Generator\obj\Debug\netcoreapp3.1\Process Generator.csproj.CoreCompileInputs.cache
+C:\Users\gabic\Desktop\Process Generator\obj\Debug\netcoreapp3.1\Process Generator.dll
+C:\Users\gabic\Desktop\Process Generator\obj\Debug\netcoreapp3.1\Process Generator.pdb
+C:\Users\gabic\Desktop\Process Generator\obj\Debug\netcoreapp3.1\Process Generator.genruntimeconfig.cache
+C:\Users\gabic\Desktop\Process Generator\obj\Debug\netcoreapp3.1\Process Generator.csproj.AssemblyReference.cache
